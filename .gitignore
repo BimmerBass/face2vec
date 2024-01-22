@@ -22939,3 +22939,7 @@ __pycache__/preprocess.cpython-310.pyc
 .venv/Lib/site-packages/tensorflow_estimator-2.10.0.dist-info/RECORD
 .venv/Lib/site-packages/tensorflow_estimator-2.10.0.dist-info/top_level.txt
 .venv/Lib/site-packages/tensorflow_estimator-2.10.0.dist-info/WHEEL
+saved_model/keras_metadata.pb
+saved_model/saved_model.pb
+saved_model/variables/variables.data-00000-of-00001
+saved_model/variables/variables.index
